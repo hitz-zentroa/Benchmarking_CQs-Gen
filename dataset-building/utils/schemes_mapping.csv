@@ -1,0 +1,86 @@
+1st_level_classification,2nd_level_classification,my_labels,MORE_DATA,brief_informal_definition,,ejemplos,ejemplos2,walton_2012,Total,moral_maze_old,social media,,us2016reddit,N,EO_PC,N,rrd,N,moral_maze_schemes,N,US2016,N,LEGAL,N,schemes_json,has_critical_questions?,schemes_in_Walton2001?,questions_in_Walton2001?,notes
+source-based,attacking personal credibility,GenericAdHominem,x,"someone is a person of bad character, so its arguments should not be accepted",,bad_anotation,bad_anotation,y,50,,,,Ad hominem,7,,,ERAdHominem,15,,,GenericAdHominem,28,GenericAdHominem,13,,,Generic Ad Hominem,yes,I think direct and generic ad hominem are the same
+source-based,attacking personal credibility,CircumstantialAdHominem,,"Someone has said two proposition that are not in the same line, so the person is not reliable. Or the person has done actions that are not aligned with their commitments","You say you want a transparent government, but you are not releasing what you paid on taxes last year",reviewed,ñe,,27,CircumstantialAdHominem,,,,,,,,,CircumstantialAdHominem,1,CircumstantialAdHominem,26,,,,,Circumstantial Ad Hominem,yes,no es lo mismo que Circumstantial Argument Against the Person
+source-based,position to know,PositionToKnow,x,"something is true, because someone who knows about it said it","The doctor has told you to put sunscreen on, so you should do it.",bad_example,easy,y,23,PositionToKnow,,,ArgumentFromAuthority,5,,,,,,,PositionToKnow,18,PositionToKnow,38,Argument from Position to Know,yes,,,
+source-based,attacking personal credibility,Bias,,"this person is biased, so their arguments are not reliable","Trump has been doing a living from the housing market, therefore he is not going to have people in mind when regulating it",easy,,,12,,,,,,,,,,,,Bias,12,,,Argument from Bias,yes,,,
+source-based,general acceptance,PopularOpinion,,"if a large majority things A is true, then A is probably true",Everybody knows rent prices are ridiculous these days.,bad_anotation,ñe,,11,PopularOpinion,,,,,Popular Opinion,1,,,PopularOpinion,2,PopularOpinion,8,,,,,Argument from Popular Opinion,yes,
+source-based,position to know,ExpertOpinion,,"something is true, because an expert who knows about it has said it",Journalists in the field have said that water is scarce,bad_anotation,,y,2,ExpertOpinion,,,,,,,,,Expert Opinion,2,,,,,Argument from Expert Opinion,yes,,,
+source-based,position to know,ExpertOpinion,,"something is true, because an expert who knows about it has said it",Journalists in the field have said that water is scarce,bad_anotation,,y,110,ExpertOpinion,,,,,Expert Opinion,96,ERExpertOpinion,8,ExpertOpinion,2,ExpertOpinion,4,,,Argument from Expert Opinion,yes,,,
+source-based,general acceptance,PopularPractice,x,"something is a good action, because it's generally done like that or a lot of people thinks that's the right way to do it","we don't need vaccines, people have been getting colds all their life, and they overcome them",bad_anotation,easy,,7,PopularPractice,,,,,,,,,,,PopularPractice,7,,,Argument from Popular Practice,no,Argument from Popular Practice,yes,
+source-based,commitment,Oppositions,,,,easy,,,6,,,,,,,,,,OpposedCommitment,2,Oppositions,4,,,,,Argument from Oppositions,no,similar to commitment
+source-based,attacking personal credibility,Ethotic,,"someone is a person of bad MORAL character, so its arguments should be REJECTED AS LESS PLAUSIBLE",,bad_annotation,,,4,,,,,,,,,,,,Ethotic,4,,,Ethotic Argument,yes,,,
+source-based,attacking personal credibility,PragmaticInconsistency,,"someone advocates for an argument, which has A as its conclusion, this someone has done things before that imply they are commited to the opposite of A, therefore the argument of this person should not be accepted",,bad_example,,,3,,,,,,,,,,,,PragmaticInconsistency,3,,,,,Pragmatic Inconsistency,yes,"this is way too similar to circumstantial ad hominem, it's a bit confusing"
+source-based,commitment,Commitment,,"if someone is commited to A, then it should also be commited to B",,bad_example,,,2,Commitment,,,,,,,,,,,Commitment,2,Commitment,38,Argument from Commitment,yes,,,"the CQs in the original document were wrong, so I changed them to the ones in the book"
+source-based,position to know,WitnessTestimony,,something is true because a witness who is telling the truth has said it,,,,,2,,,,,,,,,,,,WitnessTestimony,2,,,,,Argument from Witness Testimony,yes,
+source-based,attacking personal credibility,GenericAdHominem,,"someone is a person of bad character, so its arguments should not be accepted",,bad_anotation,,y,2,DirectAdHominem,,,,,,,,,DirectAdHominem,2,,,,,,,Generic Ad Hominem,,només hi ha generic ad hominem
+source-based,position to know,Ignorance,,"if we don't know something, it's because it's not true, otherwise we would know",,easy,,,1,,,,,,,,,,,,Ignorance,1,,,,,Argument from Ignorance,yes,
+rules to cases,based on cases,Example,,"there is a subject that has property A and B, usually objects that have A also have B, so if another object have A, it probably also have B",Trump is a Republican and a liar. Republicans are liers.,bad_anotation,bad_anotation,,206,Example,,,Example,6,Example,,ERExample,91,Example,11,Example,98,Example,17,Argument from Example,yes,,,
+rules to cases,based on cases,Analogy,,"A and B are similar situations. Therefore, if this happened in A, this might also happen in B","Clinton is no different from Obama, so the results of her policies will be the same",bad_example,easy,,15,Analogy,,,Analogy,1,,,,,Analogy,6,Analogy,8,Analogy,46,Argument from Analogy,yes,,,
+rules to cases,based on cases,Example,,"usually objects that have a also have b
+since this object has a, it probably also has b","Republicans are liers. 
+So, as a Republican, Trump is a liar.",,,,5,,,,,,,,Example,5,,,,,,,Argument from Example,yes,,,
+rules to cases,verbal classification,VerbalClassification,,a subject has a property A. All subjects that have property A can be classified as B. the subject can be classified as B.,,bad_example,bad_anotation,,29,VerbalClassification,,,,,,,,,,,VerbalClassification,29,VerbalClassification,50,Argument from Verbal Classification,yes,,,
+rules to cases,chained arguments,Gradualism,,not sure how it's different from slipery slope,,bad_anotation,ñe,,7,,,,,,,,,,,,Gradualism,7,,,Argument from Gradualism,no,,,I am not sure how this is different from slipery slope arguments
+rules to cases,rule-based,EstablishedRule,,,,,,,2,EstablishedRule,,,,,,,,,EstablishedRule,2,,,EstablishedRule,79,Argument from an Established Rule,yes,,,subtype of Rules
+rules to cases,verbal classification,VagueVerbalClassification,,"if we are using concept A to argument, concept A should be defined in order for the arguments to make sense",,ñe,,,2,VagueVerbalClassification,,,,,,,,,VagueVerbalClassification,1,VaguenessOfVerbalClassification,1,,,Argument from Vagueness of a Verbal Classification,yes,,,
+rules to cases,verbal classification,DefinitionToVerbalClassification,,,,,,,1,,,,,,,,,,,,,1,,,,,Argument from Definition to Verbal Classification,yes,
+rules to cases,rule-based,Rules,,,,ñe,,,1,Rules,,,,,,,,,,,Rules,1,,,,,Argument from an Established Rule,no,"in walton's book the only type of ""argument from rules"" is tha ""argument from established rule"", I don't know why it's differentiated here, but for now I'll merge them"
+rules to cases,rule-based,ExceptionalCase,,,,,,,1,ExceptionalCase,,,,,,,,,ExceptionSimilarityCase,1,,,,,Argument from an Exceptional Case,yes,,,
+rules to cases,chained arguments,FullSlipperySlope,,"if a concrete action is done, this will result in a chain of actions that will have a final much bigger effect",,,,y,0,,,,,,,,,,,,,,FullSlipperySlope,25,Full Slippery Slope Argument,yes,,,"this is classified as rules to cases, but I thihnk it's super connected to reasoning -> causality"
+reasoning,causal reasoning,CauseToEffect,x,"when one thing occurs, then another occurs",,bad_example,easy,,65,CauseToEffect,,,,,,,,,CauseToEffect,15,CauseToEffect,50,,,Argument from Cause to Effect,yes,,,
+reasoning,causal reasoning,CauseToEffect,x,"when one thing occurs, then another occurs",,bad_example,easy,,3,CauseToEffect,,,,,,,,,Cause To Effect,3,,,,,Argument from Cause to Effect,yes,,,
+reasoning,abductive reasoning,Sign,,one thing occurs generally when its sign occurs,Trump is a bad politician because he has lied.,easy,,,46,,,,,,,,,,SignFromOtherEvents,6,Sign,40,Sign,17,Argument From Sign,yes,,,
+reasoning,practical reasoning,PracticalReasoning,x,I have a goal and I need to do something to achieve it,To lower the price of rents we have to put a fair regulation in place.,easy,,y,286,PracticalReasoning,norm,138,,,,,ERPracticalReasoning,108,PracticalReasoning,5,PracticalReasoning,35,PracticalReasoning,62,,,Practical Reasoning,yes,
+reasoning,practical reasoning,Consequences,x,"if something is carried out, then a consequence will occur",You should put sunscreen on or you'll get burnt,easy,,y,38,,,,,,,,,,,,Consequences,38,,,Argument from Consequences,yes,,,
+reasoning,practical reasoning,Values,,there is a good value which is a reason to commit to a specific goal,We should help territories that have suffered natural disasters because solidarity is essential to humans,easy,,y,14,Values,,,,,,,,,,,Values,14,,,,,Argument from Values,no,
+reasoning,practical reasoning,FearAppeal,,"if we don't do an actions something will happen, this something is bad, so we should prevent it by doing the action","I we don't regulate the housing market now, young people will be in debt all their lifes",,,,9,,,,,,,,,,,,FearAppeal,9,,,,,Argument from Fear Appeal,no,
+reasoning,practical reasoning,Consequences,x,"if something is carried out, then a consequence will occur",,easy,,,8,NegativeConsequences,,,,,,,,,NegativeConsequences,8,,,,,Argument from Consequences,yes,,,subtype of consequences
+reasoning,practical reasoning,DangerAppeal,,if this action is done there will be dangerous consequences,"if you take drugs, you might get addicted",easy,,,8,,,,,,,,,,,,DangerAppeal,8,,,,,Argument from Danger Appeal,no,
+reasoning,practical reasoning,Alternatives,,"an event or another will be case, so if one is not the case, then the other is","if we do not regulate rents, then we'll have homeless youn people",bad_anotation,easy,,7,,,,,,,,,,,,Alternatives,7,,,,,Argument from Alternatives,no,
+reasoning,practical reasoning,Consequences,,"if something is carried out, then a consequence will occur",,easy,,y,565,PositiveConsequences,conseq,516,,,Positive Consequences,42,,,PositiveConsequences,7,,,,,Argument from Consequences,yes,,,
+reasoning,causal reasoning,CorrelationToCause,x,"there is a positive correlations between a and b, so a causes b",,bad_example,,,7,CorrelationToCause,,,,,,,,,CorrelationToCause,4,CorrelationToCause,3,,,Argument from Correlation to Cause,yes,,,
+reasoning,abductive reasoning,EvidenceToHypothesis,,,,,,,11,EvidenceToHypothesis,,,,,,,,,EvidenceToHypothesis,11,,,,,Argument from Evidence to a Hypothesis,yes,,,
+reasoning,practical reasoning,Waste,,if we stop doing this action now the previous efforts invested on it will be a waste,,easy,,y,4,,,,,,,,,,,,Waste,4,,,Argument from Waste,yes,,,
+reasoning,practical reasoning,TwoPersonPracticalReasoning,,"a person wants to do something, and another person tell him it should do this other action to achieve their goal",,ñe,,,2,,,,,,,,,,,,TwoPersonPracticalReasoning,2,,,,,Two-person Practical Reasoning,yes,
+,,Default Inference,,,,,,,244,Default Inference,,,Default Inference,543,Default Inference,44,Default Inference,,Default Inference,243,Default Inference,1,Default Inference,159,,,,,
+,,PragmaticArgumentFromAlternatives,,,,easy,,,22,,,,,,,,,,,,PragmaticArgumentFromAlternatives,22,,,,,Pragmatic Argument from Alternatives,no,
+,,Default Conflict,,,,,,,12,,,,Default Conflict,213,Default Conflict,7,Default Conflict,,Default Conflict,12,,,,,,,,,
+,,Composition,,,,easy,,,9,,,,,,,,,,,,Composition,9,Composition,1,,,Argument from Composition,yes,
+,,LackOfCompleteKnowledge,,,,,,,5,,,,,,,,,,LackOfCompleteKnowledge,5,,,,,,,,,
+,,Paraphrase,,,,,,,4,Paraphrase,,,Default Rephrase,78,,,Default Rephrase,,Paraphrase,4,,,,,,,,,
+,,PracticalReasoningFromAnalogy,,,,easy,,,3,,,,,,,,,,,,PracticalReasoningFromAnalogy,3,,,,,Practical Reasoning from Analogy,no,
+,,Dilemma,,,,,,,2,Dilemma,,,,,,,,,Dilemma,2,,,,,,,,,???
+,,NeedForHelp,,,,bad_anotation,,,2,,,,,,,,,,,,NeedForHelp,2,,,,,Argument from Need for Help,yes,
+,,Perception,,,,bad_example,,,2,,,,,,,,,,,,Perception,2,,,,,Argument from Perception,yes,
+,,ModusPonens,,,,,,,2,ModusPonens,,,,,,,,,ModusPonens,2,,,,,,,,,
+,,Reframing,,,,,,,2,Reframing,,,,,,,,,Reframing,2,,,,,,,,,
+,,Division,,,,ñe,,,1,,,,,,,,,,,,Division,1,,,,,Argument from Division,yes,
+,,InteractionOfActAndPerson,,,,easy,,,1,,,,,,,,,,,,InteractionOfActAndPerson,1,,,,,Argument from Interaction of Act and Person,no,
+,,GeneralAcceptanceDoubt,,,,,,,1,,,,,,,,,,GeneralAcceptanceDoubt,1,,,,,,,,,
+,,Logical,,,,,,,1,,,,,,,,,,Logical,1,,,,,,,,,
+,,WeakestLink,,,,,,,1,,,,,,,,,,WeakestLink,1,,,,,,,,,
+,,ArgumentFromMoralVirtue,,,,,,,0,ArgumentFromMoralVirtue,,,,,,,,,,,,,,,,,,,is this moral justification ad populum argument? -> popular opinion argument
+,,ArgumentFromPracticalWisdom,,,,,,,0,ArgumentFromPracticalWisdom,,,,,,,,,,,,,,,,,,,???
+,,Autorytet,,,,,,,0,Autorytet,,,,,,,,,,,,,,,,,,,???
+,,Inferencia,,,,,,,0,Inferencia,,,,,,,,,,,,,,,,,,,could be practical inference?? -> practical reasoning o default inference...
+,,FalsificationOfHypothesis,,,,,,,0,FalsificationOfHypothesis,,,,,,,,,ArgumentfromFalsificationofaHypothesis,,,,,,Argument from Falsification of a Hypothesis,no,,,not in the Walton book
+,,,,,,,,,0,,,,,,,,,,Precedent Slippery Slope Argument,,,,,,Precedent Slippery Slope Argument,yes,,,
+,,,,,,,,,0,,,,,,,,,,Argument from Precedent,,,,,,Argument from Precedent,yes,,,
+,,,,,,,,,0,,,,,,,,,,Verbal Slippery Slope Argument,,,,,,Verbal Slippery Slope Argument,yes,,,
+,,,,,,,,,0,,,,,,,,,,Causal Slippery Slope Argument,,,,,,Causal Slippery Slope Argument,yes,,,
+,,,,,,,,,0,,,,,,,,,,Argument from Arbitrariness of a Verbal Classification,,,,,,Argument from Arbitrariness of a Verbal Classification,yes,,,"walton tiene diferentes clases de ""from ignorance"", pero estas no son"
+,,,,,,,,,0,,,,,,,,,,Deductive Argument from Ignorance,,,,,,Deductive Argument from Ignorance,no,,,"walton tiene diferentes clases de ""from ignorance"", pero estas no son"
+,,,,,,,,,0,,,,,,,,,,Plausible Argument from Ignorance,,,,,,Plausible Argument from Ignorance,no,,,
+,,,,,,,,,,,,,,,,,JP-Reason,183,RA,,,,,,,,,,
+,,,,,,,,,,,,,,,,,JP-Evidence,,CA,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,MA,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,* almost all instances are from the Legal dataset,,,,,,,,* discover what the JP-Reason means,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,Used schemes:,,,,,,,1553,#VALUE!,,654,,19,,139,,227,,72,,442,#VALUE!,193,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,Positively annotated:,,,,,,,931,,,542,,,,,,,,,,389,,,,,,,
