@@ -45,7 +45,7 @@ Each question is evaluated according to its ability to challenge the arguments o
 
 The final score for an intervention is based on how many of the 3 generated questions are labeled **USE**.
 
-<img style="width:100%" src="utils/img/examples.png" alt="example" title="example" align="center">
+<img style="width:100%" src="img/examples.png" alt="example" title="example" align="center">
 
 ---
 
